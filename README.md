@@ -63,6 +63,3 @@ The models are evaluated using:
 
 The project includes a Streamlit application for testing transactions and predicting fraud probability.
 
-
-```bash
-pip install -r requirements.txt
